@@ -1,14 +1,9 @@
 # Shad
-Commands List
+Commands List:
 
-Kick
-
-Ban
-
-Mute
-
-Unmute
-
-Purge
-
+Kick,
+Ban,
+Mute,
+Unmute,
+Purge,
 Snipe
