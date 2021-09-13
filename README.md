@@ -1,4 +1,8 @@
 # Shad
+Prefix is ?s
+
+?shelp to get commands list
+
 Commands List:
 
 Kick,
