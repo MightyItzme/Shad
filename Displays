@@ -1,6 +1,6 @@
 Commands:
-?savatar
-Note:Displays your avatar
+?savatar/?savatar @mention
+Note:Displays your avatar and mentioned user's avatar
 
 ?ssinfo
 Note:Shows your server infomations
