@@ -6,7 +6,7 @@ Note:Displays your avatar and mentioned user's avatar
 Note:Shows your server infomations
 
 ?suinfo/?suinfo @mention
-Note:Shows infomations about a user
+Note:Shows your user infomations and mentioned user's infomations
 
 ?smcount
 Note:Membercount command,shows how many members are in your server
