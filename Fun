@@ -1,0 +1,3 @@
+Commands:
+?scoinflip
+Note: Coinflip command,maybe its head or could be tails?
