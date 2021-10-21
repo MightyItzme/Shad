@@ -11,5 +11,6 @@ https://discord.gg/B8VMerRBq8
 
 # Finding
 Need a team to develop the bot better:
+
 Contact me on Discord TheMightyItzme#3297
 
