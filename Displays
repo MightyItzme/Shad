@@ -3,13 +3,16 @@ Commands:
 Note:Displays your avatar and mentioned user's avatar
 
 ?ssinfo
-Note:Shows your server infomations
+Note:Shows your server informations
 
 ?suinfo/?suinfo @mention
-Note:Shows your user infomations and mentioned user's infomations
+Note:Shows your user informations and mentioned user's informations
+
+?sbinfo
+Note:View Shad's informations
 
 ?smcount
 Note:Membercount command,shows how many members are in your server
 
 ?sbotin
-Note:Check how many servers is the bot in
+Note:Check how many servers is Shad in
