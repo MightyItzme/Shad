@@ -1,4 +1,8 @@
 # Shad
+About:
+
+Shad is a bot that have basic moderation and ultility system bot.It is easy to use and every command have a description about how to use and informations.
+
 Links:
 
 Bot invite:
@@ -9,8 +13,5 @@ Server invite:
 
 https://discord.gg/B8VMerRBq8
 
-# Finding
-Need a team to develop the bot better:
 
-Contact me on Discord TheMightyItzme#3297
 
