@@ -33,3 +33,8 @@ Snipe
 ?ssnipe
 Note:
 Snipes a message
+
+Dm
+?sdm @mentioned 
+Note:
+Send a message to a mentioned user's dm
