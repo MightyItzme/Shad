@@ -1,5 +1,5 @@
 Commands:
-?savatar/?savatar @mention
+?savatar/?savatar @mention/?savatar userID
 Note:Displays your avatar and mentioned user's avatar
 
 ?ssinfo
