@@ -1,3 +1,6 @@
 Commands:
 ?scoinflip
 Note:Coinflip command,maybe its head or could be tails?
+
+?shack /?shack @mentioned/ ?shack userID
+Note:Hack command,hack anyone you want even you can hack yourself.
