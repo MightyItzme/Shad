@@ -11,7 +11,7 @@ https://discord.com/api/oauth2/authorize?client_id=882668659619803206&permission
 
 Server invite:
 
-https://discord.gg/B8VMerRBq8
+https://discord.gg/NscYnHN3Ec
 
 
 
