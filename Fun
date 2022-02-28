@@ -4,3 +4,6 @@ Note:Coinflip command,maybe its head or could be tails?
 
 ?shack /?shack @mentioned/ ?shack userID
 Note:Hack command,hack anyone you want even you can hack yourself.
+
+?ssay
+Note:Let the bot to say whatever you want,users with manage messages permission only can use this command because to prevent spam.
