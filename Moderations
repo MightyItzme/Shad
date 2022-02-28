@@ -4,7 +4,7 @@ Prefix is ?s
 Commands list will be send to dm
 
 Commands List:
-Kick,Ban,Mute,Unmute,Purge,Snipe
+Kick,Ban,Mute,Unmute,Purge,Snipe,Dm
 
 How To Use:
 Kick
@@ -18,11 +18,11 @@ Note:
 User must have kick permission/ban permission
 To unban someone must go to settings to do so because unban command not provided yet
 
-Mute
+Mute/Unmute
 ?smute @mentioned can provide a reason/no reason
 Note:
 User must have kick permission
-To unmute someone must use unmute command because timer not provided yet
+To unmute someone must use ?sunmute @mentioned reason/no reason command because timer not provided yet
 
 Purge
 ?spurge 
@@ -37,4 +37,5 @@ Snipes a message
 Dm
 ?sdm @mentioned 
 Note:
+User must have manage channels permission
 Send a message to a mentioned user's dm
