@@ -4,7 +4,7 @@ Prefix is ?s
 Commands list will be send to dm
 
 Commands List:
-Kick,Ban,Mute,Unmute,Purge,Snipe,Dm
+Kick,Ban,Mute,Unmute,Purge,Snipe,Dm,Addrole,Removerole
 
 How To Use:
 Kick
@@ -39,3 +39,15 @@ Dm
 Note:
 User must have manage channels permission
 Send a message to a mentioned user's dm
+
+Addrole
+?saddrole @mentioned @role
+Note:
+User must have manage user permission
+Add mentioned role to mentioned user
+
+Removerole
+?sremoverole @mentioned @role
+Note:
+User must have manage user permission
+Remove mentioned role from mentioned user
