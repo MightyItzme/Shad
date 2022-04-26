@@ -5,5 +5,8 @@ Note:Coinflip command,maybe its head or could be tails?
 ?shack /?shack @mentioned/ ?shack userID
 Note:Hack command,hack anyone you want even you can hack yourself.
 
+?s8ball
+Note:Ask the bot any question it will answer you don't try ask Maths or Sceince or anything else involved studies its not that smart.
+
 ?ssay
 Note:Let the bot to say whatever you want,users with manage messages permission only can use this command because to prevent spam.
