@@ -35,7 +35,7 @@ Note:
 Snipes a message
 
 Dm
-?sdm @mentioned 
+?sdm @mentioned <message>
 Note:
 User must have manage channels permission
 Send a message to a mentioned user's dm
@@ -51,3 +51,8 @@ Removerole
 Note:
 User must have manage user permission
 Remove mentioned role from mentioned user
+
+Embed
+?sembed <message>
+User must have manage messages permission
+Make your message to embed message
